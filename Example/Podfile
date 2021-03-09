@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'MWWebImage_Example' do
+  pod 'MWWebImage', :path => '../'
+
+  target 'MWWebImage_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
