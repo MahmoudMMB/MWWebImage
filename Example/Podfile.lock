@@ -1,0 +1,16 @@
+PODS:
+  - MWWebImage (0.1.0)
+
+DEPENDENCIES:
+  - MWWebImage (from `../`)
+
+EXTERNAL SOURCES:
+  MWWebImage:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MWWebImage: df7908eeded73723625a3abb71cd1dec75c03e4a
+
+PODFILE CHECKSUM: 135db5a7268ded367c32e9b0b77d2731c8b4afa3
+
+COCOAPODS: 1.10.1

@@ -7,6 +7,7 @@
 //
 
 #import "MWViewController.h"
+#import <MWWebImage/MWWebImage.h>
 
 @interface MWViewController ()
 
@@ -18,6 +19,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    [self.imgPhoto MW_setImageWithURL:[NSURL URLWithString: @"https://www.nature.com/immersive/d41586-021-00095-y/assets/efKDUpxlH1/2021-01-xx_jan-iom_tree-of-life_sm-1066x600.jpeg"]];
 }
 
 - (void)didReceiveMemoryWarning
