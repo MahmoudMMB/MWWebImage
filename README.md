@@ -22,7 +22,7 @@ pod 'MWWebImage'
 
 ## Author
 
-MahmoudMMB, eng.mahmoud.bel@gmail.com
+MahmoudMMB, mmbelbeisi@gmail.com
 
 ## License
 
