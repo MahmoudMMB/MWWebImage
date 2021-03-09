@@ -1,5 +1,5 @@
 # MWWebImage
-This pod all code was written by  [SDWebImage](https://github.com/SDWebImage/SDWebImage). I made this pod library because I want to skip some conflicts which we faced with the libraries was built based on [SDWebImage](https://github.com/SDWebImage/SDWebImage).
+This code was written by [SDWebImage](https://github.com/SDWebImage/SDWebImage). I made this pod library because I want to skip some conflicts which we faced with the libraries was built based on [SDWebImage](https://github.com/SDWebImage/SDWebImage).
 
 [![CI Status](https://img.shields.io/travis/MahmoudMMB/MWWebImage.svg?style=flat)](https://travis-ci.org/MahmoudMMB/MWWebImage)
 [![Version](https://img.shields.io/cocoapods/v/MWWebImage.svg?style=flat)](https://cocoapods.org/pods/MWWebImage)
